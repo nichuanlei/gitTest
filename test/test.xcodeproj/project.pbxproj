@@ -13,6 +13,8 @@
 		EA8C0FF71C7815EC00FB5622 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA8C0FF51C7815EC00FB5622 /* Main.storyboard */; };
 		EA8C0FF91C7815EC00FB5622 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA8C0FF81C7815EC00FB5622 /* Assets.xcassets */; };
 		EA8C0FFC1C7815EC00FB5622 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA8C0FFA1C7815EC00FB5622 /* LaunchScreen.storyboard */; };
+		EA8C10061C7819D800FB5622 /* ViewControllerTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = EA8C10041C7819D800FB5622 /* ViewControllerTwo.m */; };
+		EA8C10071C7819D800FB5622 /* ViewControllerTwo.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA8C10051C7819D800FB5622 /* ViewControllerTwo.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,9 @@
 		EA8C0FF81C7815EC00FB5622 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA8C0FFB1C7815EC00FB5622 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA8C0FFD1C7815EC00FB5622 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA8C10031C7819D800FB5622 /* ViewControllerTwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerTwo.h; sourceTree = "<group>"; };
+		EA8C10041C7819D800FB5622 /* ViewControllerTwo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerTwo.m; sourceTree = "<group>"; };
+		EA8C10051C7819D800FB5622 /* ViewControllerTwo.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewControllerTwo.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +68,9 @@
 				EA8C0FF21C7815EC00FB5622 /* ViewController.h */,
 				EA8C0FF31C7815EC00FB5622 /* ViewController.m */,
 				EA8C0FF51C7815EC00FB5622 /* Main.storyboard */,
+				EA8C10031C7819D800FB5622 /* ViewControllerTwo.h */,
+				EA8C10041C7819D800FB5622 /* ViewControllerTwo.m */,
+				EA8C10051C7819D800FB5622 /* ViewControllerTwo.xib */,
 				EA8C0FF81C7815EC00FB5622 /* Assets.xcassets */,
 				EA8C0FFA1C7815EC00FB5622 /* LaunchScreen.storyboard */,
 				EA8C0FFD1C7815EC00FB5622 /* Info.plist */,
@@ -140,6 +148,7 @@
 				EA8C0FFC1C7815EC00FB5622 /* LaunchScreen.storyboard in Resources */,
 				EA8C0FF91C7815EC00FB5622 /* Assets.xcassets in Resources */,
 				EA8C0FF71C7815EC00FB5622 /* Main.storyboard in Resources */,
+				EA8C10071C7819D800FB5622 /* ViewControllerTwo.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,6 +162,7 @@
 				EA8C0FF41C7815EC00FB5622 /* ViewController.m in Sources */,
 				EA8C0FF11C7815EC00FB5622 /* AppDelegate.m in Sources */,
 				EA8C0FEE1C7815EC00FB5622 /* main.m in Sources */,
+				EA8C10061C7819D800FB5622 /* ViewControllerTwo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
